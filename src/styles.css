@@ -1,0 +1,6 @@
+body { font-family: Arial; background: #f7f7f7; margin: 0; padding: 0; }
+.app { max-width: 600px; margin: 40px auto; padding: 20px; background: white; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+input, select, button { padding: 10px; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px; width: 100%; }
+button { background: #007bff; color: white; cursor: pointer; }
+button:disabled { background: gray; cursor: not-allowed; }
+ul { margin-top: 20px; list-style: disc; padding-left: 20px; }
